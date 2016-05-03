@@ -12,7 +12,5 @@ public class Main {
 		System.out.println("Ciao Xavier");
 	}
 	
-	public static void SleepWriting(String[] args){
-		System.out.println("I'm sleeping");
-	}
+
 }
